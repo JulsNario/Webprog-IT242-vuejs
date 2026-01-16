@@ -1,5 +1,5 @@
 <template>
-  <h1>Food and Personal Web</h1>
+  <h1>Food and PersonalWeb</h1>
   <Personal_Web/>
   <food-item/>
   <food-item2/>
