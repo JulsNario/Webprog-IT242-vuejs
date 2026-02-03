@@ -1,10 +1,12 @@
 <template>
-  <h1>Food and PersonalWeb</h1>
-  <Personal_Web/>
+  <h1>Food</h1>
   <food-item/>
-  <food-item2/>
+  <personal-web/>
+  <comment-form/>
+  <comment/>
+  <rest-api/> 
+   
 
 </template>
 
 <script></script>
-
