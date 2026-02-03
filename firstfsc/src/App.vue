@@ -4,6 +4,7 @@
   <personal-web/>
   <comment-form/>
   <comment/>
+  <rest-api/> 
    
 
 </template>
